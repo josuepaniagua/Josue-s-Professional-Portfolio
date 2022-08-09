@@ -25,7 +25,7 @@ ScreenShots
 
 ## Credits
 
-Credit to my mom for give me the idea for the main purple theme.
+Credit to my mom for giving me the idea for the main purple theme.
 
 ## License
 
