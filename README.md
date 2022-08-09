@@ -21,8 +21,7 @@ Steps to follow to install My Portfolio project:
 ## Usage
 
 ScreenShots
-[ScreenShot1](images/Screenshot.png)
-[ScreenShot2](images/snakeGamePic.jpg)
+![alt text](images/snakeGamePic.jpg)
 
 ## Credits
 
