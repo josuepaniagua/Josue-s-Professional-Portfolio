@@ -21,12 +21,11 @@ Steps to follow to install My Portfolio project:
 ## Usage
 
 ScreenShots
-[ScreenShot1](images/Screenshot.png)
-[ScreenShot2](images/snakeGamePic.jpg)
+![alt text](images/snakeGamePic.jpg)
 
 ## Credits
 
-Credit to my mom for give me the idea for the main purple theme.
+Credit to my mom for giving me the idea for the main purple theme.
 
 ## License
 
